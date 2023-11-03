@@ -96,7 +96,7 @@ a:hover {
   height: 70px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 500px) {
   .bg-image {
     background-attachment: scroll;
   }
